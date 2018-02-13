@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Dance Row.unity
+  isLoaded: 1
+  isActive: 1
